@@ -1,1 +1,1 @@
-berryblom.com
+echo "berryblom.com" > static/CNAME
