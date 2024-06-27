@@ -1,4 +1,4 @@
-baseURL = 'https://berryxmas.github.io/newsite/'
+baseURL = 'https://berryblom.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "blowfish"
