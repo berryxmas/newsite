@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Berry Blom"
 
 [params]
   displayName = "EN"
@@ -14,7 +14,7 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [author]
-#   name = "Your name here"
+   name = "Berry Blom"
 #   image = "img/blowfish_logo.png"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
