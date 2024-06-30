@@ -26,6 +26,19 @@ In my professional journey, I've had the opportunity to work on a variety of pro
 - 🛠 **AI Product Development:** Building custom AI products from concept to deployment.
 - 🗣 **Coaching:** Offering one-on-one coaching to help professionals grow their AI expertise.
 
+## Current Focus
+
+My current focus is on scaling AI training programs to help more businesses become efficient using AI. By providing comprehensive training sessions and hands-on workshops, I aim to empower organizations to leverage AI technologies effectively.
+
+I am also working on a top-secret project for the Dutch government, pushing the boundaries of AI innovation. 🎬🕵️‍♂️
+
+## Academic Journey
+
+I hold a master's degree in Data Science from the University of Amsterdam, where I conducted significant research in the field of AI. My research has been published on various platforms. One notable project was on domain adaptation in transformer models for question answering on Dutch government policies.
+
+- [Domain Adaptation in Transformer models: Question Answering of Dutch Government Policies](https://link.springer.com/chapter/10.1007/978-3-031-48232-8_19) 📚
+
+
 ## Previous Experience
 
 I've collaborated with a range of clients, delivering impactful AI and data solutions that drive business success:
@@ -42,17 +55,6 @@ I've collaborated with a range of clients, delivering impactful AI and data solu
 
 Each project highlights my commitment to delivering tailored AI and data solutions that provide tangible benefits to my clients.
 
-## Current Focus
-
-My current focus is on scaling AI training programs to help more businesses become efficient using AI. By providing comprehensive training sessions and hands-on workshops, I aim to empower organizations to leverage AI technologies effectively.
-
-I am also working on a top-secret project for the Dutch government, pushing the boundaries of AI innovation. 🎬🕵️‍♂️
-
-## Academic Journey
-
-I hold a master's degree in Data Science from the University of Amsterdam, where I conducted significant research in the field of AI. My research has been published on various platforms. One notable project was on domain adaptation in transformer models for question answering on Dutch government policies.
-
-- [Domain Adaptation in Transformer models: Question Answering of Dutch Government Policies](https://link.springer.com/chapter/10.1007/978-3-031-48232-8_19) 📚
 
 ## Let's Connect
 
