@@ -10,7 +10,7 @@ cover:
   alt:
   caption: 
   relative: true
-showtoc: false
+showtoc: true
 draft: false
 ---
 

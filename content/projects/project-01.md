@@ -1,8 +1,9 @@
 ---
 title: "Domain Adaptation in Transformer models: Question Answering of Dutch Government Policies"
 date: 2022-08-04T23:15:00+07:00
-slug: acetylcholinesterase
+slug: domainadaptationintransformers
 category: projects
+showTableOfContents: true
 tags: ["First Post", "Hello World"]
 summary:
 description: 
@@ -11,7 +12,6 @@ cover:
   alt:
   caption:
   relative: true
-article.showTableOfContents: true
 draft: false
 ---
 
