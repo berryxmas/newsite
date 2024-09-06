@@ -1,0 +1,7 @@
+{{ $image := resources.Get (.Get "src") }}
+{{ if $image }}
+  {{ $image := $image.Resize "80x" }}
+  <img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" }}" class="company-logo">
+{{ else }}
+  <span>Image not found: {{ .Get "src" }}</span>
+{{ end }}

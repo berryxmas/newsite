@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streamlit on Berry Blom</title>
+    <link>http://localhost:1313/tags/streamlit/</link>
+    <description>Recent content in Streamlit on Berry Blom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Berry Blom</copyright>
+    <lastBuildDate>Mon, 07 Feb 2022 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: V.I.C.T.O.R.Y - Vacancy Inclusivity Checker</title>
+      <link>http://localhost:1313/projects/vacancy-inclusivity-checker/</link>
+      <pubDate>Mon, 07 Feb 2022 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/vacancy-inclusivity-checker/</guid>
+      <description>Overview: # V.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

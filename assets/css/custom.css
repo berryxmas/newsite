@@ -1,0 +1,55 @@
+.experience-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin: 2rem 0;
+  }
+  
+  .experience-item {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .experience-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease, transform 0.3s ease;
+    border-radius: 10px; /* Add rounded corners to logos */
+  }
+  
+  .experience-item:hover img {
+    filter: grayscale(0%);
+    transform: scale(1.1);
+  }
+  
+  .experience-content {
+    flex: 1;
+  }
+  
+  .experience-content h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .experience-content p {
+    margin: 5px 0;
+  }
+  
+  @media (max-width: 768px) {
+    .experience-item {
+      flex-direction: column;
+      align-items: flex-start; /* Align items to the left on mobile */
+    }
+    
+    .experience-item img {
+      margin-bottom: 20px;
+      align-self: center; /* Center the logo horizontally on mobile */
+    }
+    
+    .experience-content {
+      text-align: left; /* Ensure text is left-aligned on mobile */
+    }
+  }

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apisix on Berry Blom</title>
+    <link>http://localhost:1313/tags/apisix/</link>
+    <description>Recent content in Apisix on Berry Blom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Berry Blom</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/apisix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APISIX API Gateway - Streamlining API Management</title>
+      <link>http://localhost:1313/projects/apisix/</link>
+      <pubDate>Thu, 20 Jun 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/apisix/</guid>
+      <description>Overview: # MailReplai is an Outlook add-on designed to streamline email communication by leveraging AI to generate smart, context-aware responses directly within your inbox.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,28 @@
     <description>Recent content on Berry Blom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Tue, 09 Apr 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Berry Blom</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APISIX API Gateway - Streamlining API Management</title>
+      <link>http://localhost:1313/projects/apisix/</link>
+      <pubDate>Thu, 20 Jun 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/apisix/</guid>
+      <description>Overview: # This project involved implementing APISIX, a high-performance API gateway, to enhance API management for our advanced analytics team.</description>
+      
+    </item>
+    
+    <item>
+      <title>MailReplai - AI-Powered Email Response Assistant</title>
+      <link>http://localhost:1313/projects/mailreplai/</link>
+      <pubDate>Thu, 18 Apr 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/mailreplai/</guid>
+      <description>Overview: # MailReplai is an Outlook add-on designed to streamline email communication by leveraging AI to generate smart, context-aware responses directly within your inbox.</description>
+      
+    </item>
+    
     <item>
       <title>About me</title>
       <link>http://localhost:1313/about/</link>
@@ -45,6 +65,16 @@
       
       <guid>http://localhost:1313/posts/common-sense-in-llm/</guid>
       <description>Enhancing Common Sense in Large Language Models: Insights from a Kaggle Competition # Endowing AI with common sense, the intuitive understanding of everyday situations, remains a significant hurdle.</description>
+      
+    </item>
+    
+    <item>
+      <title>Project: V.I.C.T.O.R.Y - Vacancy Inclusivity Checker</title>
+      <link>http://localhost:1313/projects/vacancy-inclusivity-checker/</link>
+      <pubDate>Mon, 07 Feb 2022 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/vacancy-inclusivity-checker/</guid>
+      <description>Overview: # V.</description>
       
     </item>
     

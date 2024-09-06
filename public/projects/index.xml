@@ -6,8 +6,28 @@
     <description>Recent content in Projects on Berry Blom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Thu, 04 Aug 2022 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Berry Blom</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APISIX API Gateway - Streamlining API Management</title>
+      <link>http://localhost:1313/projects/apisix/</link>
+      <pubDate>Thu, 20 Jun 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/apisix/</guid>
+      <description>Overview: # This project involved implementing APISIX, a high-performance API gateway, to enhance API management for our advanced analytics team.</description>
+      
+    </item>
+    
+    <item>
+      <title>MailReplai - AI-Powered Email Response Assistant</title>
+      <link>http://localhost:1313/projects/mailreplai/</link>
+      <pubDate>Thu, 18 Apr 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/mailreplai/</guid>
+      <description>Overview: # MailReplai is an Outlook add-on designed to streamline email communication by leveraging AI to generate smart, context-aware responses directly within your inbox.</description>
+      
+    </item>
+    
     <item>
       <title>Domain Adaptation in Transformer models: Question Answering of Dutch Government Policies</title>
       <link>http://localhost:1313/projects/domainadaptationintransformers/</link>
@@ -15,6 +35,16 @@
       
       <guid>http://localhost:1313/projects/domainadaptationintransformers/</guid>
       <description>Intro # During my Master&amp;rsquo;s in Data Science at the University of Amsterdam, I worked on creating a Question Answering (QA) system for Dutch government policies using transformer models.</description>
+      
+    </item>
+    
+    <item>
+      <title>Project: V.I.C.T.O.R.Y - Vacancy Inclusivity Checker</title>
+      <link>http://localhost:1313/projects/vacancy-inclusivity-checker/</link>
+      <pubDate>Mon, 07 Feb 2022 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/vacancy-inclusivity-checker/</guid>
+      <description>Overview: # V.</description>
       
     </item>
     

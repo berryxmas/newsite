@@ -28,8 +28,10 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.85f006de1806b55b2d082d1122deedd8cec6fdc1f7c8a51be975a4496165d6c798f4a3de52545a6a87cc4bc09fc2d6f5201d44ea57acc1ac2b1c42a688c62bee.css"
-    integrity="sha512-hfAG3hgGtVstCC0RIt7t2M7G/cH3yKUb6XWkSWFl1seY9KPeUlRaaofMS8Cfwtb1IB1E6leswawrHEKmiMYr7g==" />
+  
+  
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.e3e1d2d033ee44310cdb3f38e1102e124898e53d2ed424717c57d3dfe5a4f3a3e013b4f13edc2f4ec228e94b97343dfd5fde59c35bbbea23caa8e4483baa83a0.css"
+    integrity="sha512-4&#43;HS0DPuRDEM2z844RAuEkiY5T0u1CRxfFfT3&#43;Wk86PgE7TxPtwvTsIo6UuXND39X95Zw1u76iPKqORIO6qDoA==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -77,6 +79,18 @@
 
   
   
+  <meta name="author" content="Berry Blom" />
+  
+  
+  
+  <link href="https://github.com/berryxmas" rel="me" />
+  
+  
+  <link href="https://linkedin.com/in/berry-blom" rel="me" />
+  
+  
+  <link href="https://x.com/berryxmas" rel="me" />
+  
   
   
   
@@ -122,7 +136,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -337,6 +355,16 @@
 
 
 
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -610,7 +638,7 @@
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
       2024
-      
+      Berry Blom
     </p>
     
 

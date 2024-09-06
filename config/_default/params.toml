@@ -25,8 +25,17 @@ disableTextInHeader = false
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
+# Add this line to include your custom CSS
+customCSS = ["css/custom.css"]
+
+[author]
+  name = "Your Name"
+  image = "img/circle-berry-zakelijk.png"  # Make sure this path is correct
+  headline = "I'm a web developer and blogger"
+  bio = "This is a short bio about me"
+
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -37,10 +46,10 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
+  # homepageImage = "../assets/img/circle-berry-zakelijk.png" # used in: hero, and card
+  showRecent = true
   showRecentItems = 5
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
