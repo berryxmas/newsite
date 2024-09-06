@@ -15,7 +15,7 @@ cover:
 draft: false
 ---
 # Overview:
-This project involved implementing APISIX, a high-performance API gateway, to enhance API management for our advanced analytics team. The goal was to gain control over our API usage, which was previously consumed by other teams without proper oversight, and enable easy routing to our PostgreSQL database.
+This project involved implementing APISIX, a high-performance API gateway, to enhance API management for our advanced analytics team. The goal was to gain control over our API usage, which was previously consumed by other teams without proper oversight, and enable easy routing to our PostgreSQL database.x
 
 # Key Features:
 - API Usage Visibility: Before APISIX, our team lacked a clear overview of how our APIs were being consumed. With APISIX, we can now monitor and manage API traffic more effectively.
